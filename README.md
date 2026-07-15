@@ -1,7 +1,4 @@
-# smart-argicultural-production-optimization-engine
-# OptiCrop: Smart Agricultural Production Optimization Engine
-
-## Project Overview
+# smart-argicultural-production-optimization-engineject Overview
 OptiCrop is a Machine Learning-based crop recommendation system that helps farmers identify the most suitable crop based on soil nutrients and environmental conditions. The application predicts the best crop using parameters such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The solution is built using Python, Flask, and Scikit-learn to provide fast and accurate crop recommendations.
 
 ## Repository Structure
