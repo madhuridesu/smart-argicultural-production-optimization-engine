@@ -52,4 +52,4 @@ Recommended crop for cultivation.
 
 ## Author
 
-Gorli Uday Teja
+Desu Madhuri
