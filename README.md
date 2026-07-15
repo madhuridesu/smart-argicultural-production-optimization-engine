@@ -1,35 +1,55 @@
-# smart-argicultural-production-optimization-engineject Overview
-OptiCrop is a Machine Learning-based crop recommendation system that helps farmers identify the most suitable crop based on soil nutrients and environmental conditions. The application predicts the best crop using parameters such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The solution is built using Python, Flask, and Scikit-learn to provide fast and accurate crop recommendations.
+# 🌱 Smart Agricultural Production Optimization Engine (OptiCrop)
 
-## Repository Structure
+## Overview
 
-```
-1. Brainstorming & Ideation
-2. Requirement Analysis
-3. Project Design Phase
-4. Project Planning Phase
-5. Project Development Phase
-6. Project Testing
-7. Project Documentation
-8. Project Demonstration
-```
+OptiCrop is a Machine Learning and Flask-based web application that recommends the most suitable crop based on soil nutrients and environmental conditions.
 
-### Folder Description
+## Features
 
-**1. Brainstorming & Ideation**
-- Brainstorming documents
-- Idea prioritization
-- Problem identification
+- Crop Recommendation using Machine Learning
+- Flask Web Application
+- User-Friendly Interface
+- Multiple ML Models Comparison
+- Model Persistence using Pickle
+- Logging and Exception Handling
 
-**2. Requirement Analysis**
-- Functional requirements
-- Non-functional requirements
-- Customer journey map
-- Empathy map
-- Problem-solution fit canvas
+## Technologies Used
 
-**3. Project Design Phase**
-- Solution architecture
-- Data Flow Diagram (DFD)
-- System design
-- Workflow diagrams
+- Python
+- Flask
+- Scikit-learn
+- Pandas
+- NumPy
+- HTML
+- CSS
+- Git & GitHub
+
+## Input Parameters
+
+- Nitrogen (N)
+- Phosphorous (P)
+- Potassium (K)
+- Temperature
+- Humidity
+- pH
+- Rainfall
+
+## Output
+
+Recommended crop for cultivation.
+
+## Project Structure
+
+- Data Ingestion
+- Data Transformation
+- Model Training
+- Prediction Pipeline
+- Flask Web Application
+
+## Demo & Repository
+- **Github Repository** [https://github.com/madhuridesu/smart-argicultural-production-optimization-engine]
+- **Demo Video** [Click here for full project demo](https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn)
+
+## Author
+
+Gorli Uday Teja
